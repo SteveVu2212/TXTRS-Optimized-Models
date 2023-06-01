@@ -48,7 +48,7 @@ source("TxTRS_funding_model.R")
 
 #################################################################################################
 ################################## TESTING ######################################################
-funding_baseline <- get_funding_data()
+# funding_baseline <- get_funding_data()
 # funding_recession <- get_funding_data(return_scen = "recur_recession")
 # 
 # 
