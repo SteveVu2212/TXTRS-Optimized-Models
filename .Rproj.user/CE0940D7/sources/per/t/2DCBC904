@@ -1,0 +1,26 @@
+{
+    "id": "2DCBC904",
+    "path": "~/Documents/Reason Org/Actuarial Modeling Projects/TX TRS/model-v/TxTRS_master.R",
+    "project_path": "TxTRS_master.R",
+    "type": "r_source",
+    "hash": "448179205",
+    "contents": "",
+    "dirty": false,
+    "created": 1685601886723.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "47,0",
+        "scrollLine": "26"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685601923,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685601923229,
+    "read_only": false,
+    "read_only_alternatives": []
+}
